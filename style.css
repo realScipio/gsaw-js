@@ -1,0 +1,23 @@
+/*
+----- Colors used -----
+purple:		rgb(97, 75, 167)
+green:		rgb(67, 185, 139)
+white:		rgb(255, 255, 255)
+grey:		rgb(88, 88, 90)
+*/
+
+* { margin: 0; padding: 0; -webkit-appearance: none; outline: 0; }
+img { max-width: 100%; height: auto; text-decoration: none; border: 0px; }
+
+body { font-family: 'Montserrat'; font-size: 16px; color: rgb(88, 88, 90); background-color: rgb(255, 255, 255); }
+h1 { font-size: 48px; line-height: 1.5em; }
+h2 { font-size: 24px; line-height: 1.5em; font-weight: 300; font-style: italic; }
+h3 { font-size: 24px; line-height: 1.5em; color: rgb(67, 185, 139); text-transform: uppercase; }
+h4 { font-size: 18px; line-height: 2em; color: rgb(97, 75, 167);  text-transform: uppercase; padding-top: 20px; }
+p  { font-style: italic; }
+
+section { padding: 30px 0; }
+section#intro { text-align: center; }
+div.wrapper { width: 960px; margin: 0 auto; }
+
+a.inline-block { display: inline-block; text-decoration: none; padding: 15px 25px; margin: 15px 20px; background-color: rgb(97, 75, 167); color: rgb(255, 255, 255);}
